@@ -141,12 +141,12 @@
     },
     {
         "id": "15",
-        "name": "Airi 13",
-        "character": "airi",
-        "img":  "1/1.png",
-        "color": "#FB8AAC",
+        "name": "Nami",
+        "character": "nami",
+        "img":  "arc/nami.png",
+        "color": "#F9C2CB",
         "defaultText": {
-            "text": "",
+            "text": "SHOCK!",
             "x": 148,
             "y": 58,
             "r": -2,
