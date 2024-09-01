@@ -155,12 +155,12 @@
     },
     {
         "id": "16",
-        "name": "Airi 14",
-        "character": "airi",
-        "img":  "1/1.png",
-        "color": "#FB8AAC",
+        "name": "Vita",
+        "character": "Vita",
+        "img":  "arc/vita.png",
+        "color": "#F58194",
         "defaultText": {
-            "text": "",
+            "text": "OK!",
             "x": 148,
             "y": 58,
             "r": -2,
